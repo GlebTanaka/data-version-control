@@ -2,4 +2,4 @@
     analytics = false
     remote = remote_storage
 ['remote "remote_storage"']
-    url = C:/Users/Gleb Tanaka/PracticeFolder/dvc_test/dvc_remote
+    url = gdrive://1Hb1r8pvbt81zA3fJ7jWZ0aQ2HS93CD8t
