@@ -2,4 +2,4 @@
     analytics = false
     remote = remote_storage
 ['remote "remote_storage"']
-    url = C:\Users\Gleb Tanaka\PracticeFolder\dvc_test\dvc_remote
+    url = C:/Users/Gleb Tanaka/OneDrive - Allgeier Public/RemoteStorage
